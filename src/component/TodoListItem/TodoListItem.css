@@ -1,0 +1,18 @@
+.mark-btn:hover {
+  background-color: beige;
+}
+.mark-btn a {
+  background-color: #5a47ef;
+  opacity: 70%;
+  text-decoration: none;
+  margin: 5px;
+  padding: 3px;
+  color: black;
+  font-weight: bold;
+}
+.mark-btn button {
+  background-color: #fbbd08;
+}
+.mark-btn button:hover {
+  background-color: rgba(17, 47, 216, 0.29);
+}
